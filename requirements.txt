@@ -1,0 +1,11 @@
+numpy
+scipy
+networkx
+matplotlib
+bs4
+twython
+sympy
+yahoo-finance
+pandas
+typing
+ipykernel
